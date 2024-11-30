@@ -1,0 +1,30 @@
+<!Doctype html>
+<head>
+ <title>demo template </title>
+ <link rel ="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+  <div class="container">
+     <div class="menu">
+        <b><h1>Stories by<Vai<span>shnavi</span></h1><<b> 
+     </div>
+     <div class="banner">
+       <div class="subdiv1">
+         <h1>Time And Respect</h1>
+         <p>
+         One’s upon a time. I was sitting our grocery shop. That day my father test me how I behave with the customer and unfortunately I not    passed it with 100% because I behave with them good but I stop them for a while as I was busy in my work. That time my father told me always attended the customer first then do our work.
+“Customer is like God”
+</p>
+         <a><small>LEARN MORE</small></a>  
+         </div>
+       </div>
+        <div class="subdiv2">
+         <img src="respect.jpg",alt="image not found">
+        </div>
+    </div>
+      
+
+  </div>
+</body>
+</html>
